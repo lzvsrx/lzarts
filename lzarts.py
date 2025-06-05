@@ -5,7 +5,7 @@ from datetime import datetime
 import uuid
 import io
 from streamlit_drawable_canvas import st_canvas
-from moviepy.editor import ImageClip
+from moviepy import ImageClip
 import requests
 import json
 
