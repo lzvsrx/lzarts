@@ -3,3 +3,5 @@ Pillow
 streamlit-drawable-canvas
 moviepy
 requests
+imageio
+numpy
